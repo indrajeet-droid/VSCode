@@ -1,0 +1,8 @@
+1) Download VSCode
+2) Download .net core sdk(not runtime)
+3) Install
+4) Open new folder from file explore(in vs code)
+5)open terminal
+6)dotnet new console
+7)dotnet restore
+8)dotnet run
